@@ -1,4 +1,4 @@
-#hey!
+#hey
 
 this is practice repo.
 
